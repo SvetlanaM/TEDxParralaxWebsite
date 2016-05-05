@@ -62,13 +62,8 @@ a:hover {
     -moz-box-sizing: border-box;
             box-sizing: border-box;
 }
-<<<<<<< HEAD
 input::-moz-focus-inner {
   border: 0 !important;
-=======
-input::-moz-focus-inner {
-  border: 0 !important;
->>>>>>> 702b69dbf52aae627da1737a794db3fdc4a940c2
   outline: 0 !important;
 }
 
@@ -167,22 +162,14 @@ h1, h2, h3, h4, h5, h6 {
     font-family: inherit;
     font-size: inherit;
     font-weight: 700;
-<<<<<<< HEAD
     letter-spacing: 1px;
-=======
-    letter-spacing: 1px;
->>>>>>> 702b69dbf52aae627da1737a794db3fdc4a940c2
     outline: medium none;
     padding: 25px 40px;
     position: relative;
     text-transform: uppercase;
     transition: all 0.3s ease 0s;
     border: 3px solid rgba(255,204,0,1);
-<<<<<<< HEAD
     color: #fff;
-=======
-    color: #fff;
->>>>>>> 702b69dbf52aae627da1737a794db3fdc4a940c2
 }
 
 
@@ -194,11 +181,7 @@ h1, h2, h3, h4, h5, h6 {
 	transition: all ease 0.25s;
 	border: 3px solid #fff;
 	color: rgba(255,204,0,1);
-<<<<<<< HEAD
 
-=======
-
->>>>>>> 702b69dbf52aae627da1737a794db3fdc4a940c2
 }
 
 .mybtn:hover{
@@ -207,11 +190,7 @@ h1, h2, h3, h4, h5, h6 {
 	-webkit-transition: all ease 0.25s;
 	transition: all ease 0.25s;
 	color: rgba(120,75,211,1);
-<<<<<<< HEAD
 
-=======
-
->>>>>>> 702b69dbf52aae627da1737a794db3fdc4a940c2
 }
 
 
@@ -223,26 +202,16 @@ h1, h2, h3, h4, h5, h6 {
     font-family: inherit;
     font-size: inherit;
     font-weight: 700;
-<<<<<<< HEAD
     letter-spacing: 1px;
-=======
-    letter-spacing: 1px;
->>>>>>> 702b69dbf52aae627da1737a794db3fdc4a940c2
     outline: medium none;
     padding: 25px 40px;
     position: relative;
     text-transform: uppercase;
     transition: all 0.3s ease 0s;
     border: 3px solid #fff;
-<<<<<<< HEAD
     color: #fff;
     margin-right: 10px;
 
-=======
-    color: #fff;
-    margin-right: 10px;
-
->>>>>>> 702b69dbf52aae627da1737a794db3fdc4a940c2
 }
 
 
@@ -269,11 +238,7 @@ h1, h2, h3, h4, h5, h6 {
     padding: 15px 35px
 }
 
-<<<<<<< HEAD
 .cat li {
-=======
-.cat li {
->>>>>>> 702b69dbf52aae627da1737a794db3fdc4a940c2
 
     display: inline-block;
 
@@ -305,22 +270,13 @@ h1, h2, h3, h4, h5, h6 {
     border: none;
     opacity: 0.8;
     color: #fff;
-<<<<<<< HEAD
 
-=======
-
->>>>>>> 702b69dbf52aae627da1737a794db3fdc4a940c2
 }
 .standard-button3:hover {
     border: 1px solid #CBC4D1;
     opacity: 0.8;
-<<<<<<< HEAD
 
 
-=======
-
-
->>>>>>> 702b69dbf52aae627da1737a794db3fdc4a940c2
 }
 
 .standard-button i {
@@ -332,11 +288,7 @@ h1, h2, h3, h4, h5, h6 {
 .alternate-button {
     border: 1px solid #FFF;
     opacity: 1;
-<<<<<<< HEAD
 
-=======
-
->>>>>>> 702b69dbf52aae627da1737a794db3fdc4a940c2
 }
 
 .lili > li {
@@ -358,11 +310,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .alternate-button:hover {
-<<<<<<< HEAD
 
-=======
-
->>>>>>> 702b69dbf52aae627da1737a794db3fdc4a940c2
     color: #FFF!important;
     opacity: 0.7
 }
@@ -407,11 +355,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /*---------------------------------------
-<<<<<<< HEAD
    TEXTS & BACKGROUNDS
-=======
-   TEXTS & BACKGROUNDS
->>>>>>> 702b69dbf52aae627da1737a794db3fdc4a940c2
 -----------------------------------------*/
 .white-text {
     color: #ffffff;
@@ -478,11 +422,7 @@ opacity: 0.9;
 }
 
 .custom-section-1 {
-<<<<<<< HEAD
 
-=======
-
->>>>>>> 702b69dbf52aae627da1737a794db3fdc4a940c2
 	    overflow: auto;
     background:url('https://trello-attachments.s3.amazonaws.com/525891a2c373fd773e0033d7/53c92df680c71792d0df2d5e/1600x1067/70c7c5cd15f943eef239ab287ece0432/2.jpg') repeat-x top right;
 		width: 100%;
@@ -497,11 +437,7 @@ opacity: 0.9;
 }
 
 /*---------------------------------------
-<<<<<<< HEAD
    SECTIONS
-=======
-   SECTIONS
->>>>>>> 702b69dbf52aae627da1737a794db3fdc4a940c2
 -----------------------------------------*/
 .section-wrapper {
     padding-top: 50px;
@@ -533,11 +469,7 @@ opacity: 0.9;
 .section-header2 {
     text-align: center;
     margin: 0 auto;
-<<<<<<< HEAD
 
-=======
-
->>>>>>> 702b69dbf52aae627da1737a794db3fdc4a940c2
 }
 
 .section-header h2 {
@@ -569,11 +501,7 @@ opacity: 0.9;
 
 /* HOME */
 .header {
-<<<<<<< HEAD
-    background: url('https://trello-attachments.s3.amazonaws.com/5585ac604e4d95cb6a64c0a7/2000x1066/92db13071bee2e8d0d447bcbc9e0b5f6/bg.jpg') no-repeat 0 0 fixed;
-=======
     background: url('https://trello-attachments.s3.amazonaws.com/525891a2c373fd773e0033d7/53c92df680c71792d0df2d5e/2000x1328/6bc0e4adc9d7c20eadd262579a14074d/mockup02.png') no-repeat 0 0 fixed;
->>>>>>> 702b69dbf52aae627da1737a794db3fdc4a940c2
 }
 
 .header2 {
@@ -630,11 +558,7 @@ opacity: 0.9;
 }
 
 /*---------------------------------------
-<<<<<<< HEAD
    SECTION:  GETTING STARTED
-=======
-   SECTION:  GETTING STARTED
->>>>>>> 702b69dbf52aae627da1737a794db3fdc4a940c2
 -----------------------------------------*/
 .getting-started-section {
     padding-bottom: 0;
@@ -725,15 +649,9 @@ h1+.subheading {
 }
 
 /*---------------------------------------
-<<<<<<< HEAD
    SECTION:  NEWSLETTER
 -----------------------------------------*/
 .utility-bar {
-=======
-   SECTION:  NEWSLETTER
------------------------------------------*/
-.utility-bar {
->>>>>>> 702b69dbf52aae627da1737a794db3fdc4a940c2
     padding: 40px 0
 }
 
@@ -761,20 +679,12 @@ h1+.subheading {
 
 .subscription-form .form-control {
     border: 2px solid #ddd;
-<<<<<<< HEAD
 
-=======
-
->>>>>>> 702b69dbf52aae627da1737a794db3fdc4a940c2
 }
 
 
 /*---------------------------------------
-<<<<<<< HEAD
    SECTION:  FEATURES
-=======
-   SECTION:  FEATURES
->>>>>>> 702b69dbf52aae627da1737a794db3fdc4a940c2
 -----------------------------------------*/
 .features {
     padding-bottom: 50px;
@@ -788,11 +698,7 @@ h1+.subheading {
 }
 
 .feature-box-icon {
-<<<<<<< HEAD
     display: block;
-=======
-    display: block;
->>>>>>> 702b69dbf52aae627da1737a794db3fdc4a940c2
     font-size: 30px;
 }
 
@@ -812,11 +718,7 @@ h1+.subheading {
 }
 
 /*---------------------------------------
-<<<<<<< HEAD
    SECTION:  BRIEF
-=======
-   SECTION:  BRIEF
->>>>>>> 702b69dbf52aae627da1737a794db3fdc4a940c2
 -----------------------------------------*/
 .app-brief h2 {
     margin-top: 12px;
@@ -895,21 +797,13 @@ h1+.subheading {
 
 
 /*---------------------------------------
-<<<<<<< HEAD
    SECTION:  TESTIMONIALS
-=======
-   SECTION:  TESTIMONIALS
->>>>>>> 702b69dbf52aae627da1737a794db3fdc4a940c2
 -----------------------------------------*/
 .company-logos {
     max-width: 700px;
     margin: 0 0 50px;
 }
-<<<<<<< HEAD
 .testimonials .quote:before,
-=======
-.testimonials .quote:before,
->>>>>>> 702b69dbf52aae627da1737a794db3fdc4a940c2
 .testimonials .quote:after {
     content: "";
     display: block;
@@ -1012,11 +906,7 @@ h1+.subheading {
 }
 
 /*---------------------------------------
-<<<<<<< HEAD
    SECTION:  SERVICES
-=======
-   SECTION:  SERVICES
->>>>>>> 702b69dbf52aae627da1737a794db3fdc4a940c2
 -----------------------------------------*/
 
 .services .single-service .service-icon {
@@ -1035,11 +925,7 @@ h1+.subheading {
 }
 
 /*---------------------------------------
-<<<<<<< HEAD
    SECTION:  SCREENSHOTS
-=======
-   SECTION:  SCREENSHOTS
->>>>>>> 702b69dbf52aae627da1737a794db3fdc4a940c2
 -----------------------------------------*/
 .screenshots .shot {
     background: #FFFFFF;
@@ -1057,11 +943,7 @@ h1+.subheading {
 }
 
 /*---------------------------------------
-<<<<<<< HEAD
    SECTION:  PRICING
-=======
-   SECTION:  PRICING
->>>>>>> 702b69dbf52aae627da1737a794db3fdc4a940c2
 -----------------------------------------*/
 #pricing {
     border-top: solid 1px rgba(23,45,53,0.08);
@@ -1078,11 +960,7 @@ h1+.subheading {
     padding-bottom: 40px;
     color: #474b59;
     text-align: center;
-<<<<<<< HEAD
 
-=======
-
->>>>>>> 702b69dbf52aae627da1737a794db3fdc4a940c2
 }
 
 .pricing-item-section h3 {
@@ -1105,11 +983,7 @@ h1+.subheading {
     padding-bottom: 20px;
 }
 
-<<<<<<< HEAD
 .pricing-item-price-unit,
-=======
-.pricing-item-price-unit,
->>>>>>> 702b69dbf52aae627da1737a794db3fdc4a940c2
 .pricing-item-rice-currency {
     position: relative;
     top: -36px;
@@ -1195,11 +1069,7 @@ h1+.subheading {
 }
 
 /*---------------------------------------
-<<<<<<< HEAD
    SECTION:  CTA
-=======
-   SECTION:  CTA
->>>>>>> 702b69dbf52aae627da1737a794db3fdc4a940c2
 -----------------------------------------*/
 .cta-section {
     background-color: #FAFAFA;
@@ -1208,17 +1078,10 @@ h1+.subheading {
     text-align: center
 }
 
-<<<<<<< HEAD
 
 
 .alternate-button-2 {
     color: #fff;
-=======
-
-
-.alternate-button-2 {
-    color: #fff;
->>>>>>> 702b69dbf52aae627da1737a794db3fdc4a940c2
     display: inline-block;
     text-align: center;
     font-weight: bold !important;
@@ -1227,24 +1090,15 @@ h1+.subheading {
     text-shadow: 0 1px 0px rgba(0,0,0,0.15);
     white-space: nowrap;
     overflow: hidden;
-<<<<<<< HEAD
     text-overflow: ellipsis;
-=======
-    text-overflow: ellipsis;
->>>>>>> 702b69dbf52aae627da1737a794db3fdc4a940c2
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
     padding: 25px 50px;
     font-size: 16px;
     border: none;
-<<<<<<< HEAD
     border-radius: 5px;
 
-=======
-    border-radius: 5px;
-
->>>>>>> 702b69dbf52aae627da1737a794db3fdc4a940c2
 
 }
 
@@ -1259,11 +1113,7 @@ h1+.subheading {
     text-shadow: 0 1px 0px rgba(0,0,0,0.15);
     white-space: nowrap;
     overflow: hidden;
-<<<<<<< HEAD
     text-overflow: ellipsis;
-=======
-    text-overflow: ellipsis;
->>>>>>> 702b69dbf52aae627da1737a794db3fdc4a940c2
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
@@ -1271,11 +1121,7 @@ h1+.subheading {
     font-size: 16px;
     border: none;
     border-radius: 5px;
-<<<<<<< HEAD
 
-=======
-
->>>>>>> 702b69dbf52aae627da1737a794db3fdc4a940c2
 
 
 }
@@ -1291,11 +1137,7 @@ h1+.subheading {
     text-shadow: 0 1px 0px rgba(0,0,0,0.15);
     white-space: nowrap;
     overflow: hidden;
-<<<<<<< HEAD
     text-overflow: ellipsis;
-=======
-    text-overflow: ellipsis;
->>>>>>> 702b69dbf52aae627da1737a794db3fdc4a940c2
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
@@ -1303,12 +1145,6 @@ h1+.subheading {
     font-size: 16px;
     border: none;
     border-radius: 5px;
-<<<<<<< HEAD
-
-
-
-=======
-
 
 
 
@@ -1328,15 +1164,8 @@ h1+.subheading {
     color: #ffffff;}
 
 
-
 /*---------------------------------------
    SECTION:  FOOTER
-=======
-
-
-/*---------------------------------------
-   SECTION:  FOOTER
->>>>>>> 702b69dbf52aae627da1737a794db3fdc4a940c2
 -----------------------------------------*/
 
 footer {
@@ -1358,6 +1187,7 @@ footer a:hover {
 footer .company p {
     line-height: 21px;
     margin-top: 17px;
+
 }
 
 footer .company > img {
@@ -1470,7 +1300,6 @@ font-size: 20px;
 	font-style: italic;
 	margin-left: 35px;
 }
-
 
 img.text-center.img-responsive.wow.fadeInDown.animated.animated {
   margin-top: 60px;
