@@ -1309,3 +1309,14 @@ img.text-center.img-responsive.wow.fadeInDown.animated.animated {
     margin-bottom: 60px;
     box-shadow: 2px 2px 50px #fcdfda;
 }
+
+.partners ul {
+  padding: 0;
+margin: 0;
+width: 100%;
+display: inline-flex;
+}
+.partners ul li img {
+  width: 65%;
+  display: block;
+}
